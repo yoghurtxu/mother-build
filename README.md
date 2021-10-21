@@ -1,2 +1,4 @@
 # mother-build
-Library toolkit based on rollup and babel.
+
+See our [main repo](https://github.com/yoghurtxu/mother-build) for more information.
+
