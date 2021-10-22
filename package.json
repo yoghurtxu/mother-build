@@ -70,6 +70,14 @@
     "type": "git",
     "url": "https://github.com/yoghurtxu/mother-build"
   },
+  "keywords": [
+    "modules",
+    "bundler",
+    "bundling",
+    "es6",
+    "optimizer",
+    "father-build"
+  ],
   "homepage": "https://github.com/yoghurtxu/mother-build",
   "bugs": "https://github.com/yoghurtxu/mother-build/issues",
   "authors": [
